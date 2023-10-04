@@ -1,7 +1,7 @@
 ①python3 get_2chtext.py "url" "dir/output_file.txt"
 でredditから英語のテキストを取得
 ②DeepLで翻訳
-③猛虎弁になおして区切りに"|"をいれてtxtファイルに保存
+③区切りに"|"をいれてtxtファイルに保存
 ④録画しつつ
 python3 run_bouyomi.py "dir/input_text.txt"
 でテキストを音声化
